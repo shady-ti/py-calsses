@@ -1,0 +1,3 @@
+1. Implement a simple substutuion cypher with no homophony. You cannot use a static/hard-coded cypher-key.
+
+2. Implement a method to obtain a (more or less accurate) cypher-key used for encryption given the encrypted cypher text. Assume the plaintext is english.
