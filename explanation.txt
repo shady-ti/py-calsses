@@ -1,0 +1,10 @@
+KEY:
+    abcdefghijklmnopqrstuvwxyz
+    asdfghjklqwertyuiopzxcvbnm
+
+PLAINTEXT:
+    hello michael how are you
+
+CIPHERTEXT:
+    kgeey rldkage kyv aog nyx
+

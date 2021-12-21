@@ -14,7 +14,14 @@ shortcut_list = [i for i in range(101)]
 # print(shortcut_list)
 
 # 2. create a list with the first 100 cubes using shortcut_list
-newlist = [i ** 3 for i in shortcut_list]
+
+# listx = [(element definition using some variable x) for x in (something)]
+#
+# listx = []
+# for x in (something):
+#   listx.append(x ** 3)
+
+newlist = [i ** 3 for i in range(3)]
 # print(newlist)
 
 # 3. list of lists:
@@ -25,7 +32,20 @@ newlist = [i ** 3 for i in shortcut_list]
 #                           (power 50)
 # ]
 
-list2 = [[number ** power for number in range(51)] for power in range(51)]
+list2 = [[number ** power for number in range(3)] for power in range(3)]
+# print(list2)
+
+# 0 ->
+
+# list2 = []
+
+# for power in range(51):
+#     sublist = []
+
+#     for number in range(51):
+#         sublist.append(number**power)
+
+#     list2.append(sublist)
 
 # for sublist in list2:
 #     print(sublist)
@@ -46,20 +66,25 @@ for currentfolderdetails in walk(".\\basic datatypes"):
         file_path = currentfolder + "\\" + file
         filepathlist.append(file_path)
 
+print(filepathlist)
+
 # hw: convert to list comprehension
 
+# join(a,b) = a + '\\' + b
+allfiles = [currentfolder + "\\" + file for currentfolder, listofsub, listoffiles in walk('.\\') for file in listoffiles]
+print(allfiles)
 
 a = [1, 2, 3, 4, 5]
 b = a
 b[1] = "insert value"
-print(a)
+# print(a)
 
 c = a.copy()
-c[1] = 'insert value'
-print(c)
+c[1] = "insert value"
+# print(c)
 
-print(a[3])
-print(a[-2])
+# print(a[3])
+# print(a[-2])
 
-a.insert(2, 'blah')
-print(a)
+a.insert(2, "blah")
+# print(a)
