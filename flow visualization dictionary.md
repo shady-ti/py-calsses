@@ -22,91 +22,91 @@
     x = 12
     ```
 
-    ![](imgs/placeholder.jpg)
+    ![](imgs/sim1.jpg)
 
 02. ```python
     "Hello there"
     ```
 
-    ![](imgs/placeholder.jpg)
+    ![](imgs/sim2.jpg)
 
 03. ```python
     [1, 2, 3, "a", "b", "c"]
     ```
 
-    ![](imgs/placeholder.jpg)
+    ![](imgs/sim3.jpg)
 
 04. ```python
     (1, 2, 3)
     ```
 
-    ![](imgs/placeholder.jpg)
+    ![](imgs/sim4.jpg)
 
 05. ```python
     "tHe DaRk KnIgHt".lower()
     ```
 
-    ![](imgs/placeholder.jpg)
+    ![](imgs/sim5.jpg)
 
 06. ```python
     12 + 3j
     ```
 
-    ![](imgs/placeholder.jpg)
+    ![](imgs/sim6.jpg)
 
 07. ```python
     "tHe DaRk KnIgHt".capitalize()
     ```
 
-    ![](imgs/placeholder.jpg)
+    ![](imgs/sim7.jpg)
 
 08. ```python
     {"a": 1, "b": 2, "c": 3}.items()
     ```
 
-    ![](imgs/placeholder.jpg)
+    ![](imgs/sim8.jpg)
 
 09. ```python
     {"a": 1, "b": 2, "c": 3}
     ```
 
-    ![](imgs/placeholder.jpg)
+    ![](imgs/sim9.jpg)
 
 10. ```python
     some_list[3] = "new value"
     ```
 
-    ![](imgs/placeholder.jpg)
+    ![](imgs/sim10.jpg)
 
 11. ```python
     "tHe DaRk KnIgHt".title()
     ```
 
-    ![](imgs/placeholder.jpg)
+    ![](imgs/sim11.jpg)
 
 12. ```python
     [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
     ```
 
-    ![](imgs/placeholder.jpg)
+    ![](imgs/sim12.jpg)
 
 13. ```python
     {"a": 1, "b": 2, "c": 3}.keys()
     ```
 
-    ![](imgs/placeholder.jpg)
+    ![](imgs/sim13.jpg)
 
 14. ```python
     ~13
     ```
 
-    ![](imgs/placeholder.jpg)
+    ![](imgs/sim14.jpg)
 
 15. ```python
     15 << 3
     ```
 
-    ![](imgs/placeholder.jpg)
+    ![](imgs/sim 15.jpg)
 
 16. ```python
     12 | 5
