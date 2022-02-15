@@ -22,182 +22,150 @@
     x = 12
     ```
 
-    ![](imgs/sim1.jpg)
-
 02. ```python
     "Hello there"
     ```
-
-    ![](imgs/sim2.jpg)
 
 03. ```python
     [1, 2, 3, "a", "b", "c"]
     ```
 
-    ![](imgs/sim3.jpg)
 
 04. ```python
     (1, 2, 3)
     ```
 
-    ![](imgs/sim4.jpg)
 
 05. ```python
     "tHe DaRk KnIgHt".lower()
     ```
 
-    ![](imgs/sim5.jpg)
 
 06. ```python
     12 + 3j
     ```
 
-    ![](imgs/sim6.jpg)
 
 07. ```python
     "tHe DaRk KnIgHt".capitalize()
     ```
 
-    ![](imgs/sim7.jpg)
 
 08. ```python
     {"a": 1, "b": 2, "c": 3}.items()
     ```
 
-    ![](imgs/sim8.jpg)
 
 09. ```python
     {"a": 1, "b": 2, "c": 3}
     ```
 
-    ![](imgs/sim9.jpg)
 
 10. ```python
     some_list[3] = "new value"
     ```
 
-    ![](imgs/sim10.jpg)
 
 11. ```python
     "tHe DaRk KnIgHt".title()
     ```
 
-    ![](imgs/sim11.jpg)
 
 12. ```python
     [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
     ```
 
-    ![](imgs/sim12.jpg)
 
 13. ```python
     {"a": 1, "b": 2, "c": 3}.keys()
     ```
 
-    ![](imgs/sim13.jpg)
 
 14. ```python
     ~13
     ```
 
-    ![](imgs/sim14.jpg)
 
 15. ```python
     15 << 3
     ```
 
-    ![](imgs/sim 15.jpg)
 
 16. ```python
     12 | 5
     ```
 
-    ![](imgs/placeholder.jpg)
 
 17. ```python
     set([1, 2, 3, 4, 2, 2])
     ```
 
-    ![](imgs/placeholder.jpg)
 
 18. ```python
     "tHe DaRk KnIgHt"[2:-2]
     ```
 
-    ![](imgs/placeholder.jpg)
 
 19. ```python
     [1, 2, 3, 4, 5][3]
     ```
 
-    ![](imgs/placeholder.jpg)
 
 20. ```python
     x %= 2
     ```
 
-    ![](imgs/placeholder.jpg)
 
 21. ```python
     {"a": 1, "b": 2, "c": 3}.values()
     ```
 
-    ![](imgs/placeholder.jpg)
 
 22. ```python
     "tHe DaRk KnIgHt".split(" ")
     ```
 
-    ![](imgs/placeholder.jpg)
 
 23. ```python
     {"a": 1, "b": 2, "c": 3}["b"]
     ```
 
-    ![](imgs/placeholder.jpg)
 
 24. ```python
     y = [1, 2, 3].copy()
     ```
 
-    ![](imgs/placeholder.jpg)
 
 25. ```python
     [1, 2, 3, 4, 5, 6][2:-2]
     ```
 
-    ![](imgs/placeholder.jpg)
 
 26. ```python
     a, b, c, d = (1, 2, 3, 4)
     ```
 
-    ![](imgs/placeholder.jpg)
 
 27. ```python
     (1, 2, 3, 4, 5)[1:-1]
     ```
 
-    ![](imgs/placeholder.jpg)
 
 28. ```python
     [1, 2, 3, 4, 5].insert(3, 0)
     ```
 
-    ![](imgs/placeholder.jpg)
 
 29. ```python
     "tHe DaRk KnIgHt".replace(" ", "-")
     ```
 
-    ![](imgs/placeholder.jpg)
 
 30. ```python
     x = 12
     f"{x} is even"
     ```
 
-    ![](imgs/placeholder.jpg)
 
 # Comparatively complex stuff
 
