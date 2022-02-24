@@ -392,14 +392,14 @@
     ![](imgs/placeholder.jpg)
 
 28. ```python
-    auto_gen_fn = a_function_that_returns_another_function(x)
-    auto_gen_fn(return_fn_value)
+    sin_nx = generate_sin_nx(n)
+    sin_nx(x)
     ```
 
     ![](imgs/placeholder.jpg)
 
 29. ```python
-    a_function_that_returns_another_function(x)(return_fn_value)
+    generate_sin_nx(n)(x)
     ```
 
     ![](imgs/placeholder.jpg)
